@@ -3,9 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/kennychill/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/kennychill/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/kennychill/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/KennyChill/kennychill/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/KennyChill/kennychill/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/KennyChill/kennychill/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
