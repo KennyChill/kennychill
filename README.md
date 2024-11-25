@@ -6,7 +6,7 @@
 Navigating Linux
   - [Creating Folders and Files](https://github.com/KennySBarr/Files-and-folders)
   - [Searching and Previewing Files using Head, Tail, More, and Less](https://github.com/KennySBarr/head-tails)
-  - [Post Attack: Log Search IP Address Look up](https://github.com/KennySBarr/Files-and-folders)
+  - [Post Attack: Log Search IP Address Look up](https://github.com/KennySBarr/IP-address)
 
 <h2>🤳Connect with me:</h2>
 
