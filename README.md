@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Linux</b>
-  - [Creating Folders and Files](https://github.com/KennyChill/creating-vm)
+  - [Creating Folders and Files](https://github.com/KennyChill/Files-and-folders)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/KennyChill/osticket-prereqs-)
   - [osTicket: Post-Installation Configuration](https://github.com/KennySBarr/post-install-config-)
