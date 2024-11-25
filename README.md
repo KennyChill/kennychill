@@ -10,7 +10,7 @@ Navigating Linux
  
   - <b>Azure Vmware</b>
 Virtual Machnines
-  - [Creating a Virtual Machine](https://github.com/KennySBarr/Files-and-folders)
+  - [Creating a Virtual Machine](https://github.com/KennySBarr/creating-vm)
   
 
 <h2>🤳Connect with me:</h2>
