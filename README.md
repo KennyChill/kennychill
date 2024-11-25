@@ -5,7 +5,7 @@
 - <b>Linux</b>
 Navigating Linux
   - [Creating Folders and Files](https://github.com/KennySBarr/Files-and-folders)
-  - [Creating Folders and Files](https://github.com/KennySBarr/Files-and-folders)
+  - [Searching and Previewing Files using Head, Tail, More, and Less](https://github.com/KennySBarr/head-tails)
   - [Creating Folders and Files](https://github.com/KennySBarr/Files-and-folders)
 
 <h2>🤳Connect with me:</h2>
