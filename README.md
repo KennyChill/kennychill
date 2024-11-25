@@ -4,6 +4,15 @@
 
 - <b>Linux</b>
   - [Creating Folders and Files](https://github.com/KennySBarr/Files-and-folders)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/KennyChill/osticket-prereqs-)
+  - [osTicket: Post-Installation Configuration](https://github.com/KennySBarr/post-install-config-)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/KennySBarr/ticket-lifecycle-)
+- <b>Microsoft Azure</b>
+  - [Creating A Virtual Machine On Azure](https://github.com/KennyChill/creating-vm)
+  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
+  - [Active Directory Network File Shares & Permissions](https://github.com/joshmadakoredmonds/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
@@ -14,3 +23,4 @@
 [twitter]: https://twitter.com/Jane
 [instagram]: https://www.instagram.com/Jane
 [linkedin]: https://linkedin.com/in/kennybarr1
+
