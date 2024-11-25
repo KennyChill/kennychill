@@ -5,6 +5,8 @@
 - <b>Linux</b>
 Navigating Linux
   - [Creating Folders and Files](https://github.com/KennySBarr/Files-and-folders)
+  - [Creating Folders and Files](https://github.com/KennySBarr/Files-and-folders)
+  - [Creating Folders and Files](https://github.com/KennySBarr/Files-and-folders)
 
 <h2>🤳Connect with me:</h2>
 
