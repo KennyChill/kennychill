@@ -8,7 +8,7 @@ Navigating Linux
   - [Searching and Previewing Files using Head, Tail, More, and Less](https://github.com/KennySBarr/head-tails)
   - [Post Attack: Log Search IP Address Look up](https://github.com/KennySBarr/IP-address)
  
-  - <b>Azure Vmware</b>
+- <b>Azure Vmware</b>
 Virtual Machnines
   - [Creating a Virtual Machine](https://github.com/KennySBarr/creating-vm)
   
