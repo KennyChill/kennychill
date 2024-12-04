@@ -10,7 +10,7 @@ Navigating Linux
  
  - <b>Amazon Web Services </b>
  Virtual Machnines with a mounted Encrpyted Amazon EBS (EC2)
-   - [Creating Virtual Machnines with a mounted Encrpyted Amazon EBS ](https://github.com/KennySBarr/creating-vm)
+   - [Creating Virtual Machnines with a mounted Encrpyted Amazon EBS ](https://github.com/KennySBarr/awsvm)
  
 - <b>Azure Vmware</b>
 Virtual Machnines
