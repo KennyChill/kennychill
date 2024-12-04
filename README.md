@@ -8,6 +8,10 @@ Navigating Linux
   - [Searching and Previewing Files using Head, Tail, More, and Less](https://github.com/KennySBarr/head-tails)
   - [Post Attack: Log Search IP Address Look up](https://github.com/KennySBarr/IP-address)
  
+  - - <b>Amazon Web Services </b>
+Virtual Machnines (EC2)
+  - [Creating a Virtual Machine](https://github.com/KennySBarr/creating-vm)
+ 
 - <b>Azure Vmware</b>
 Virtual Machnines
   - [Creating a Virtual Machine](https://github.com/KennySBarr/creating-vm)
