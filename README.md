@@ -9,8 +9,8 @@ Navigating Linux
   - [Post Attack: Log Search IP Address Look up](https://github.com/KennySBarr/IP-address)
  
  - <b>Amazon Web Services </b>
- Virtual Machnines with a mounted Encrpyted Amazon EBS (EC2)
-   - [Creating Virtual Machnines with a mounted Encrpyted Amazon EBS ](https://github.com/KennySBarr/awsvm)
+ Virtual Machnines AWS Cloud (EC2)
+   - [Virtual Machnines with an IAM User Amazon S3 Permissions only ](https://github.com/KennySBarr/awsvm)
  
 - <b>Azure Vmware</b>
 Virtual Machnines
