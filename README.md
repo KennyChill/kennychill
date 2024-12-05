@@ -10,7 +10,7 @@ Navigating Linux
  
  - <b>Amazon Web Services </b>
  Virtual Machnines AWS Cloud (EC2)
-   - [Virtual Machnines with an IAM User Amazon S3 Permissions only ](https://github.com/KennySBarr/awsvm)
+   - [Creating Virtual Machnines (Instance) with an IAM User Amazon S3 Permissions only ](https://github.com/KennySBarr/awsvm)
    - [Mounting an encrypted EBS onto Instance](https://github.com/KennySBarr/MountingEBS)
  
 - <b>Azure Vmware</b>
