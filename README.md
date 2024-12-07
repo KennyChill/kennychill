@@ -10,7 +10,7 @@ Navigating Linux
  
  - <b>Amazon Web Services </b>
  Virtual Machnines AWS Cloud (EC2)
-   - [How to Create an AWS VPC with Public and Private Subnets](https://github.com/KennySBarr/awsvm)
+   - [How to Create an AWS VPC with Public and Private Subnets](https://github.com/KennySBarr/my-vpc)
    - [Creating a Virtual Machnine (Instance) with an IAM User Amazon S3 Permissions only ](https://github.com/KennySBarr/awsvm)
    - [Mounting an encrypted EBS onto Instance](https://github.com/KennySBarr/MountingEBS)
  
