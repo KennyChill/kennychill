@@ -9,7 +9,7 @@ Navigating Linux
   - [Post Attack: Log Search IP Address Look up](https://github.com/KennySBarr/IP-address)
  
  - <b>Amazon Web Services </b>
- Virtual Machnines AWS Cloud (EC2)
+ Virtual Machnines AWS Cloud 
    - [How to Create an AWS VPC with Public and Private Subnets](https://github.com/KennySBarr/my-vpc)
    - [Setting Up CloudWatch Monitoring](https://github.com/KennySBarr/cloud-trail)
    - [Creating a Virtual Machnine (Instance) with an IAM User Amazon S3 Permissions only ](https://github.com/KennySBarr/awsvm)
