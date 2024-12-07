@@ -9,14 +9,14 @@ Navigating Linux
   - [Post Attack: Log Search IP Address Look up](https://github.com/KennySBarr/IP-address)
  
  - <b>Amazon Web Services </b>
- Virtual Machnines AWS Cloud 
+ AWS Cloud 
    - [How to Create an AWS VPC with Public and Private Subnets](https://github.com/KennySBarr/my-vpc)
    - [Setting Up CloudWatch Monitoring](https://github.com/KennySBarr/cloud-trail)
    - [Creating a Virtual Machnine (Instance) with an IAM User Amazon S3 Permissions only ](https://github.com/KennySBarr/awsvm)
    - [Mounting an encrypted EBS onto Instance](https://github.com/KennySBarr/MountingEBS)
  
 - <b>Azure Vmware</b>
-Virtual Machnines
+Virtual Machines
    - [Creating a Virtual Machine using Microsft Azure](https://github.com/KennySBarr/creating-vm)
   
 
